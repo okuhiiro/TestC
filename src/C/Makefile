@@ -1,3 +1,3 @@
 CC := gcc
 
-main:
+main: main.c path.c 
